@@ -28,15 +28,6 @@ A Flask web app for analyzing crime-related images — upload, preview, and enha
 
 ---
 
-### 🏅 Certifications
-
-- Java Foundation Certification — Infosys Springboard (2025)
-- TechA Testing Fundamentals Certification — Infosys Springboard (2026)
-- Introduction to MongoDB (For Students) — MongoDB (2026)
-- MongoDB Atlas Administrator Path — MongoDB (2026)
-
----
-
 ### 📫 Let's connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/komal-2007)
