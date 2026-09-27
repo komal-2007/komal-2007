@@ -36,7 +36,7 @@ A Flask web app for analyzing crime-related images — upload, preview, and enha
 
 ---
 
-⭐️ *Building things, one commit (and one stage) at a time.*
+
 <!--
 **komal-2007/komal-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
